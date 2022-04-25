@@ -4,3 +4,8 @@
 ## Student Name: Seungjun, Yu
 
 #### This is the repository for a group task of OSSLab class.
+
+#### Group members
+- Gangsik, Lim
+- Seungjun, Yu
+- Sanghun, Park
